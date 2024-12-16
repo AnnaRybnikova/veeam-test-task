@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldersSynchronization.Cli", "FoldersSynchronization.Cli\FoldersSynchronization.Cli.csproj", "{6732B8D8-800F-4409-86ED-0EB09CF19B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldersSynchronization.Core", "FoldersSynchronization.Core\FoldersSynchronization.Core.csproj", "{1912C5A0-E5DF-41B3-AC1E-0D068E49650C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldersSynchronization.Tests", "FoldersSynchronization.Tests\FoldersSynchronization.Tests.csproj", "{40A2FF4D-457E-4F17-9869-1CE3EDBFF786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6732B8D8-800F-4409-86ED-0EB09CF19B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6732B8D8-800F-4409-86ED-0EB09CF19B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6732B8D8-800F-4409-86ED-0EB09CF19B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6732B8D8-800F-4409-86ED-0EB09CF19B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1912C5A0-E5DF-41B3-AC1E-0D068E49650C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1912C5A0-E5DF-41B3-AC1E-0D068E49650C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1912C5A0-E5DF-41B3-AC1E-0D068E49650C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1912C5A0-E5DF-41B3-AC1E-0D068E49650C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A2FF4D-457E-4F17-9869-1CE3EDBFF786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A2FF4D-457E-4F17-9869-1CE3EDBFF786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A2FF4D-457E-4F17-9869-1CE3EDBFF786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A2FF4D-457E-4F17-9869-1CE3EDBFF786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
